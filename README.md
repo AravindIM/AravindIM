@@ -1,3 +1,4 @@
+# ![Hello](https://readme-typing-svg.herokuapp.com?font=Bangers&size=30&pause=1000&width=435&lines=Hello%2C+My+name+is+AIM!)
 <!--
 **AravindIM/AravindIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,19 +14,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/AravindIM"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+My+name+is+AIM!" alt="Typing SVG" /></a>
+<img width="100%" align="center" src="https://github.com/AravindIM/AravindIM/blob/main/banner.gif" />
 
 ![](https://komarev.com/ghpvc/?username=AravindIM)
 
+<!-- Top -->
 <a href="https://github.com/AravindIM">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AravindIM&card_width=745" />
+  <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AravindIM&card_width=745" />
+</a>
+
+<!-- Middle -->
+<a href="https://github.com/AravindIM">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=AravindIM" />
 </a>
 <a href="https://github.com/AravindIM">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AravindIM" />
+  <img height=200 align="center" src="https://gravatar.com/avatar/c81800cc7972bd37609affd64ef63993?s=200" />
 </a>
 <a href="https://github.com/AravindIM">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AravindIM&layout=compact&langs_count=10&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AravindIM&layout=compact&langs_count=10&card_width=320" />
 </a>
+
+
+<!-- Awards -->
 <a href="https://github.com/AravindIM">
-  <img width=765 align="center" src="https://github-profile-trophy.vercel.app/?username=AravindIM&theme=flat&row=3&column=-1" />
+  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=AravindIM&theme=flat&row=3&column=-1" />
 </a>
