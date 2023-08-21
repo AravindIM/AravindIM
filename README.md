@@ -28,10 +28,10 @@ Here are some ideas to get you started:
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=AravindIM" />
 </a>
 <a href="https://github.com/AravindIM">
-  <img height=200 align="center" src="https://gravatar.com/avatar/c81800cc7972bd37609affd64ef63993?s=200" />
+  <img height=200 align="center" src="https://gravatar.com/avatar/c81800cc7972bd37609affd64ef63993?s=200"/>
 </a>
 <a href="https://github.com/AravindIM">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AravindIM&layout=compact&langs_count=10&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AravindIM&layout=compact&langs_count=10&card_width=300" />
 </a>
 
 
