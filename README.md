@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img width="100%" align="center" src="https://github.com/AravindIM/AravindIM/blob/main/banner.gif" />
 
-![](https://komarev.com/ghpvc/?username=AravindIM)
+[![](https://komarev.com/ghpvc/?username=AravindIM)](https://github.com/AravindIM)
 
 <!-- Top -->
 <a href="https://github.com/AravindIM">
