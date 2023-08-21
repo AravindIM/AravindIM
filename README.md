@@ -1,4 +1,4 @@
-# ![Hello](https://readme-typing-svg.herokuapp.com?font=Bangers&size=30&pause=1000&width=435&lines=Hello%2C+My+name+is+AIM!)
+# [![Hello](https://readme-typing-svg.herokuapp.com?font=Bangers&size=30&pause=1000&width=435&lines=Hello%2C+My+name+is+AIM!)](https://aravindim.github.io)
 <!--
 **AravindIM/AravindIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
