@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 <!-- Middle -->
 <a href="https://github.com/AravindIM">
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=AravindIM" />
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=AravindIM" />
 </a>
 <a href="https://github.com/AravindIM">
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AravindIM&layout=compact&langs_count=10&card_width=500" />
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AravindIM&layout=compact&langs_count=10&card_width=500" />
 </a>
 
 
