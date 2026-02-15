@@ -1,7 +1,7 @@
 # [![AravindIM](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00F720&width=435&lines=%3E+Hello%2C+My+name+is+Aravind+I+M!)](https://github.com/AravindIM)
 
-[![Followers](https://img.shields.io/github/followers/AravindIM?label=FOLLOWERS&color=111111&style=for-the-badge)](https://github.com/AravindIM?tab=achievements)
-[![Public Repos](https://img.shields.io/badge/dynamic/json?label=PUBLIC%20REPOS&query=$.public_repos&url=https://api.github.com/users/AravindIM&color=111111&style=for-the-badge)](https://github.com/AravindIM?tab=achievements)
+[![Followers](https://img.shields.io/github/followers/AravindIM?label=FOLLOWERS&color=111111&style=for-the-badge)](https://github.com/AravindIM?tab=followers)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?label=PUBLIC%20REPOS&query=$.public_repos&url=https://api.github.com/users/AravindIM&color=111111&style=for-the-badge)](https://github.com/AravindIM?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=AravindIM&label=PROFILE%20VIEWS&color=111111&style=for-the-badge)](https://github.com/AravindIM?tab=achievements)
 
 ---
