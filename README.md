@@ -1,38 +1,57 @@
-# [![Hello](https://readme-typing-svg.herokuapp.com?font=Bangers&size=30&pause=1000&width=435&lines=Hello%2C+My+name+is+AIM!)](https://aravindim.github.io)
-<!--
-**AravindIM/AravindIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [![AravindIM](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Hello%2C+My+name+is+Aravind+I+M!)](https://github.com/AravindIM)
 
-Here are some ideas to get you started:
+[![Followers](https://img.shields.io/github/followers/AravindIM?label=FOLLOWERS&color=111111&style=for-the-badge)](https://github.com/AravindIM?tab=achievements)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?label=PUBLIC%20REPOS&query=$.public_repos&url=https://api.github.com/users/AravindIM&color=111111&style=for-the-badge)](https://github.com/AravindIM?tab=achievements)
+[![Profile Views](https://komarev.com/ghpvc/?username=AravindIM&label=PROFILE%20VIEWS&color=111111&style=for-the-badge)](https://github.com/AravindIM?tab=achievements)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<img width="100%" align="center" src="https://github.com/AravindIM/AravindIM/blob/main/banner.gif" />
+## 🚀 Tech Stack
 
-[![](https://komarev.com/ghpvc/?username=AravindIM)](https://github.com/AravindIM)
+<p align="center">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="75" />
+  </a>
+  <a href="https://nestjs.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="75" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="75" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="75" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="75" />
+  </a>
+</p>
 
-<!-- Top -->
-<a href="https://github.com/AravindIM">
-  <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AravindIM&card_width=745" />
-</a>
+<p align="center">
+  <a href="https://www.rust-lang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="75" />
+  </a>
+  <a href="https://go.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="75" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="75" />
+  </a>
+  <a href="https://en.cppreference.com/w/c">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="75" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="75" />
+  </a>
+</p>
 
-<!-- Middle -->
-<a href="https://github.com/AravindIM">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=AravindIM" />
-</a>
-<a href="https://github.com/AravindIM">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AravindIM&layout=compact&langs_count=10&card_width=500" />
-</a>
+---
 
+## 🔥 Contribution Streak
 
-<!-- Awards -->
-<a href="https://github.com/AravindIM">
-  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=AravindIM&theme=flat&row=3&column=-1" />
-</a>
+[![Contribution Streak](https://streak-stats.demolab.com?user=AravindIM&hide_border=true&card_width=1000)](https://github.com/AravindIM?tab=repositories)
+
+---
+
+## 📈 Contribution Graph
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AravindIM&theme=github-compact&hide_border=true)](https://github.com/AravindIM?tab=repositories)
