@@ -2,7 +2,6 @@
 
 [![Followers](https://img.shields.io/github/followers/AravindIM?label=FOLLOWERS&color=111111&style=for-the-badge)](https://github.com/AravindIM?tab=followers)
 [![Public Repos](https://img.shields.io/badge/dynamic/json?label=PUBLIC%20REPOS&query=$.public_repos&url=https://api.github.com/users/AravindIM&color=111111&style=for-the-badge)](https://github.com/AravindIM?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=AravindIM&label=PROFILE%20VIEWS&color=111111&style=for-the-badge)](https://github.com/AravindIM?tab=achievements)
 
 ---
 
@@ -28,13 +27,3 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="75" />](https://www.kernel.org/)
 
 ---
-
-## 🔥 Contribution Streak
-
-[![Contribution Streak](https://streak-stats.demolab.com?user=AravindIM&hide_border=true&card_width=1000)](https://github.com/AravindIM?tab=repositories)
-
----
-
-## 📈 Contribution Graph
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AravindIM&theme=github-compact&hide_border=true)](https://github.com/AravindIM?tab=repositories)
